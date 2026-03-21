@@ -153,11 +153,11 @@ ______
 2. *Для создания и изменения объектов моделей со связанными данными вложенных сериализаторов использован пакет `drf-writable-nested`*
 ______
 ***ERD for Database***
-![Untitled (6)](<img width="2104" height="953" alt="333712452-722001e2-2863-43c2-b631-76b0e0e5a3e3" src="https://github.com/user-attachments/assets/4c0dd397-c814-4a18-8f0f-0f7b3555da89" />
-)
+![Untitled (6)]<img width="2104" height="953" alt="333712452-722001e2-2863-43c2-b631-76b0e0e5a3e3" src="https://github.com/user-attachments/assets/4c0dd397-c814-4a18-8f0f-0f7b3555da89" />
+
 ______
 ***Отчет о покрытии тестами***
-![image](<img width="1177" height="1080" alt="333730171-733f72a4-911d-43a8-a752-ac64b84e3e2a" src="https://github.com/user-attachments/assets/17af1ffb-7885-4f9a-8dcd-5f3d39d5503f" />)
+![image]<img width="1177" height="1080" alt="333730171-733f72a4-911d-43a8-a752-ac64b84e3e2a" src="https://github.com/user-attachments/assets/17af1ffb-7885-4f9a-8dcd-5f3d39d5503f" />
 
 ______
 ***Figma: дизайн приложения***
