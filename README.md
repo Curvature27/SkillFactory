@@ -147,14 +147,6 @@ GET /perevals/?tourist_id__email=<email>
 ______
 
 
-***Документация сгенерирована с помощью пакета `drf-yasg`*** 
-
-*Документация **swagger**: https://kalinkinkonstantin01.pythonanywhere.com/swagger/*<br/>
-*Хостинг **pythonanywhere.com**: https://kalinkinkonstantin01.pythonanywhere.com/*<br/>
-*Документация **redoc**: https://kalinkinkonstantin01.pythonanywhere.com/redoc/*
-
-______
-
 ***Дополнительно:***
 
 1. *Реализовано повторное использование существующего объекта модели `Users` при создания нового объекта модели `Pereval`. Если запрос (метод `POST/perevals/`) на добавление записи отправляет пользователь, ранее уже отправлявший такой запрос (определяется по `email`), то для текущей записи используются ранее записанные данные пользователя, а не создается новый пользователь (объект модели `Users`).* 
